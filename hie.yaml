@@ -1,0 +1,8 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:ctl-secp-mre"
+
+    - path: "./app/serialise"
+      component: "exe:serialise"
+
